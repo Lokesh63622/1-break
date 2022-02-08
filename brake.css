@@ -1,0 +1,65 @@
+*{
+    background-color: rgb(17, 1, 1);
+    color: rgb(240, 231, 231);
+}
+#name{
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    
+    
+}
+#Email{
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+}
+#password{
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+}
+#button{
+    width: 300px;
+    height: 30px;
+    background-color: green;
+}
+#Google{
+    width: 150px;
+    height: 30px;
+}
+#facebook{
+    width: 150px;
+    height: 30px;
+}
+input:hover{
+    outline: 2px solid orangered;
+    
+}
+p{
+    color: rgb(136, 132, 132);
+}
+#number{
+    color:red;
+    margin-bottom: -53px;
+    text-shadow: 2px 2px orangered; 
+   
+    
+}
+#center{
+    margin-left: 500px;
+    margin-top:-500px ;
+    
+}
+a:link{
+    color: rgb(238, 198, 22);
+}
+#login{
+    text-decoration: none;
+}
+#radio{
+    margin-left: 200px;
+}
+#home{
+    margin-left: 100px;
+}
